@@ -11,4 +11,12 @@ Refactoring the code did make it run a little faster. Before I refactored it, th
 
 As you can see from the screen shots of my Excel sheet for **All Stocks 2017** (refactored), all stocks except *TERP* were "in the green", that is- had a positive return. *TERP* was "in the red" with a return of -7.2%. Comparitively, there were only two stocks with a positive return for the year 2018, which were *ENPH* and *RUN*, at 81.9% and 84.0%, respectively. All other stocks for 2018 had a negative return. 
 
+# Run Time
+![green_stocks_2017](https://github.com/sjwedlund/VBA_Challenge/blob/main/resources/resources/green_stocks_2017.png)
+
+Here in this screen shot of the run time for my original macro for All Stocks Analysis, you can see that the code ran in 0.53125 seconds for the year 2017. 
+
 ![VBA_Challenge_2017](https://github.com/sjwedlund/VBA_Challenge/blob/main/resources/VBA_Challenge_2017.png)
+
+In the above image, a screen shot of the popup for the refactored code, you can see that the run time for 2017 was a bit faster, at only 0.3125 seconds. 
+
