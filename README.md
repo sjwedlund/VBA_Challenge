@@ -19,7 +19,7 @@ Here in this screen shot of the execution time for my original macro for All Sto
 
 ![VBA_Challenge_2017](https://github.com/sjwedlund/VBA_Challenge/blob/main/resources/VBA_Challenge_2017.png)
 
-In the above image, a screen shot of the popup for the refactored code, you can see that the exeuction time for 2017 was a bit faster, at only 0.3125 seconds. 
+In the above image, a screen shot of the popup for the refactored code, you can see that the execution time for 2017 was a bit faster, at only 0.3125 seconds. 
 
 ## Code
 ![All_Stocks_Analysis_Refactored_code_snippet](https://github.com/sjwedlund/VBA_Challenge/blob/main/resources/resources/resources/All_Stocks_Analysis_Refactored_code_snippet.png)
