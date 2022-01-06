@@ -1,4 +1,4 @@
-# VBA_Challenge
+# VBA Challenge
 
 # Overview of Project
 The purpose of this analysis is to refactor code for Steve's research on the stock market over the last few years, to make the VBA Script for the green_stocks spreadsheet run faster, by making the code more efficient. 
